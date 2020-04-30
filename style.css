@@ -1,0 +1,39 @@
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+
+body{
+  background-color: #bee8e0;
+}
+
+h1{
+  margin: 30px;
+  font-family: 'Baloo',cursive;
+  font-size: 5rem;
+  color: #e61e6a;
+}
+
+p{
+  font-size: 3rem;
+  color: #e61e6a;
+  font-family: 'Paaji',cursive;
+}
+img{
+  height: 100%;
+  width: 80%;
+}
+
+footer{
+  margin-top: 5%;
+  font-size: 2rem;
+  color: #a30340;
+  text-align: center;
+  font-family: 'Nunito', cursive;
+}
